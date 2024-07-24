@@ -4,3 +4,5 @@ This repository consists of training scripts modified from torchvision's vision 
 two Faster-RCNN models, one with a ResNet-50 backbone and the other with a ResNet-101 backbone. 
 
 Post-Training Quantization was carried out to condense the model further to make it edge usable.
+
+This research project was undertaken for my university course CSE465: Neural Networks and Pattern Recognition
